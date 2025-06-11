@@ -1,91 +1,73 @@
-Cybersecurity Roadmap (Detailed Steps)
+# Cybersecurity Roadmap (Detailed Steps)
 
-Phase 1: 0–1 Month
+## Phase 1: 0–1 Month
 
-1. Base IT/CS Knowledge
+### 1. Base IT/CS Knowledge
+- Understand hardware and software fundamentals.
+- Learn basic networking concepts (OSI model, TCP/IP, ports).
 
-Understand hardware and software fundamentals.
+### 2. Practical Learning
+- Join and progress through TryHackMe modules:
+  - **Pre-Security Path**
+  - **Cyber Security 101 Path**
+  - **SOC Level 1 Path** *(very optional, only if you are really lost)*
+- Set up and experiment with Virtual Machines (VMware, VirtualBox).
+- Learn and use SIEM tools like Splunk.
+- Start taking notes on everything you learn.
 
-Learn base networking concepts (OSI model, TCP/IP, ports).
+---
 
-2. Practical Learning
+## Phase 2: 2–4 Months
 
-Join and progress through TryHackMe modules.
+### 1. Security+ Exam Prep
+- Follow the full Professor Messer Security+ video playlist.
+- Take practice exams regularly.
 
-Set up and experiment with Virtual Machines (VMware, VirtualBox).
+### 2. Security+ Exam
+- Schedule and take the Security+ certification exam.
 
-Learn and use SIEM tools like Splunk.
+---
 
-Start taking notes on everything you learn.
+## Phase 3: 0–4 Months (Parallel to Phase 1 & 2)
 
-Phase 2: 2–4 Months
+### 1. Make Your CV and Apply for Jobs
+- Follow a structured CV guide (see `cv.md`).
+- Start applying for entry-level cybersecurity roles (especially SOC Analyst I).
 
-1. Security+ Exam Prep
+---
 
-Follow the full Professor Messer Security+ video playlist.
+## Phase 4: 4 Months – 2 Years
 
-Take practice exams regularly.
+### 1. SOC Analyst Role
+- Begin work as a SOC Analyst (Level 1).
 
-2. Security+ Exam
+### 2. Learn Coding
+- Bash (Recommended)
+- Python (Must)
+- C/C++ (Optional but recommended for exploit development)
 
-Schedule and take the Security+ certification exam.
+### 3. Experience
+- Continue learning and practicing daily.
+- Upskill in your desired area (e.g., Blue Team tools or Red Team techniques).
+- Join communities and network (LinkedIn, Discord, Twitter).
 
-Phase 3: 0–4 Months (Parallel to Phase 1 & 2)
+### 4. Moving to a New Role
+- Choose a path and transition to a more specialized role.
 
-1. Make Your CV and Apply for Jobs
+---
 
-Follow a structured CV guide (see cv.md).
+## Specialization Paths
 
-Start applying for entry-level cybersecurity roles (especially SOC Analyst I).
+### Blue Team
+- SOC Analyst Level 2/3
+- Incident Responder
+- Threat Hunter
+- Security Engineer
+- Cloud Security Engineer
+- SOC Manager
+- Digital Forensics Analyst
 
-Phase 4: 4 Months – 2 Years
-
-1. SOC Analyst Role
-
-Begin work as a SOC Analyst (Level 1).
-
-2. Learn Coding
-
-Bash (Recommended)
-
-Python (Must)
-
-C/C++ (Optional but recommended for exploit development)
-
-3. Experience
-
-Continue learning and practicing daily.
-
-Upskill in your desired area (e.g., Blue Team tools or Red Team techniques).
-
-Join communities and network (LinkedIn, Discord, Twitter).
-
-4. Moving to a New Role
-
-Choose a path and transition to a more specialized role.
-
-Specialization Paths
-
-Blue Team
-
-SOC Analyst Level 2/3
-
-Incident Responder
-
-Threat Hunter
-
-Security Engineer
-
-Cloud Security Engineer
-
-SOC Manager
-
-Digital Forensics Analyst
-
-Red Team
-
-Penetration Tester
-
-Reverse Engineer
-
-Exploit/Malware Developer
+### Red Team
+- Penetration Tester
+- Reverse Engineer
+- Exploit/Malware Developer
