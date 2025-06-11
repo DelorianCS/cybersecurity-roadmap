@@ -31,5 +31,4 @@ The roadmap is split by time and skill development:
 - Study strategy for CompTIA Security+ (with free resources)
 - How to build a cybersecurity CV for SOC/Blue Team
 - Projects and home lab examples
-- Roadmap to specialize in Blue Team or Red Team roles
 - Guidance for entry-level job hunting and long-term growth
