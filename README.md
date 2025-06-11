@@ -9,7 +9,7 @@ I’m **Delorian**, the creator of the original roadmap on [roadmap.sh](https://
 You can view my interactive roadmap here:  
 ➡️ [roadmap.sh/r/cibersecurity-roadmap](https://roadmap.sh/r/cibersecurity-roadmap)
 
-Also included as an image here this repo: [![My Cybersecurity Roadmap](./roadmap.png)
+Also included as an image here (./roadmap.png)
 
 ## 📁 Roadmap Structure
 
