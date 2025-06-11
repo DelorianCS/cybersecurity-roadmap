@@ -29,6 +29,5 @@ The roadmap is split by time and skill development:
 - Step-by-step cybersecurity learning journey
 - TryHackMe learning paths (Pre-Security, Cyber Security 101, SOC L1)
 - Study strategy for CompTIA Security+ (with free resources)
-- How to build a cybersecurity CV for SOC/Blue Team
-- Projects and home lab examples
+- How to build a cybersecurity CV for SOC/Blue Teaming
 - Guidance for entry-level job hunting and long-term growth
