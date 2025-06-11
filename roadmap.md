@@ -32,7 +32,7 @@
 ## Phase 3: 0–4 Months (Parallel to Phase 1 & 2)
 
 ### 1. Make Your CV and Apply for Jobs
-- Follow a structured CV guide (see `cv.md`).
+- Follow a structured CV guide [CV Guide](./cv.md)
 - Start applying for entry-level cybersecurity roles (especially SOC Analyst I).
 
 
