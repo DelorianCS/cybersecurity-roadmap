@@ -15,7 +15,6 @@
 - Learn and use SIEM tools like Splunk.
 - Start taking notes on everything you learn.
 
----
 
 ## Phase 2: 2–4 Months
 
@@ -26,7 +25,6 @@
 ### 2. Security+ Exam
 - Schedule and take the Security+ certification exam.
 
----
 
 ## Phase 3: 0–4 Months (Parallel to Phase 1 & 2)
 
@@ -34,7 +32,6 @@
 - Follow a structured CV guide (see `cv.md`).
 - Start applying for entry-level cybersecurity roles (especially SOC Analyst I).
 
----
 
 ## Phase 4: 4 Months – 2 Years
 
@@ -54,7 +51,6 @@
 ### 4. Moving to a New Role
 - Choose a path and transition to a more specialized role.
 
----
 
 ## Specialization Paths
 
