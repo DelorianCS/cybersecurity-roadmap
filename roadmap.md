@@ -1,4 +1,4 @@
-![Roadmap Overview](https://roadmap.sh/r/cibersecurity-roadmap)
+[Roadmap Overview](https://roadmap.sh/r/cibersecurity-roadmap)
 
 
 # Cybersecurity Roadmap (Detailed Steps)
