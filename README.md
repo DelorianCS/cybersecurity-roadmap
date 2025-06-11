@@ -1,7 +1,7 @@
 # cybersecurity-roadmap
 My complete cybersecurity roadmap – starting from SOC Analyst to Blue/Red Team. Based on my roadmap on roadmap.sh
 
-# 🛡My Cybersecurity Roadmap
+# My Cybersecurity Roadmap
 
 Welcome to my personal cybersecurity roadmap repository.
 
@@ -26,7 +26,7 @@ The roadmap is split by time and skill development:
 
 More details in [roadmap.md](./roadmap.md)
 
-## 📚 What’s Included?
+##  What’s Included?
 
 - My personal study notes and practice tips
 - TryHackMe walkthroughs
