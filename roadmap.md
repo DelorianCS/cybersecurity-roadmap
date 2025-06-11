@@ -1,3 +1,6 @@
+![Roadmap Overview](./roadmap.png)
+
+
 # Cybersecurity Roadmap (Detailed Steps)
 
 ## Phase 1: 0–1 Month
