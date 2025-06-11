@@ -1,36 +1,35 @@
-# cybersecurity-roadmap
-My complete cybersecurity roadmap – starting from SOC Analyst to Blue/Red Team. Based on my roadmap on roadmap.sh
-
 # My Cybersecurity Roadmap
 
 Welcome to my personal cybersecurity roadmap repository.
 
-I’m Delorian, the creator of the original roadmap on [roadmap.sh](https://roadmap.sh/r/cibersecurity-roadmap), and this repo contains my full expanded journey from zero knowledge to becoming a cybersecurity professional — both defensive (Blue Team) and offensive (Red Team).
+I’m **Delorian**, the creator of the original roadmap on [roadmap.sh](https://roadmap.sh/r/cibersecurity-roadmap), and this repo contains my full expanded journey from zero knowledge to becoming a cybersecurity professional — both defensive (Blue Team) and offensive (Red Team).
 
-## Original Visual Roadmap
+## 🗺️ Original Visual Roadmap
 
 You can view my interactive roadmap here:  
 ➡️ [roadmap.sh/r/cibersecurity-roadmap](https://roadmap.sh/r/cibersecurity-roadmap)
 
 Also included as an image in this repo: `roadmap.png`
 
-## Roadmap Structure
+## 📁 Roadmap Structure
 
 The roadmap is split by time and skill development:
 
 - `0-1-month/`: IT foundations, TryHackMe, SIEM tools, note-taking
-- `2-4-months/`: Certification study (e.g., Security+), Professor Messer, CV writing
-- `4m-2y/`: Learning coding, gaining experience, networking, specialization
-- `final-roles/`: Choose between Blue Team or Red Team
-- `resources/`: Useful books, tools, websites, videos
+- `2-4-months/`: Security+ prep with Professor Messer, certification, CV creation
+- `4m-2y/`: SOC experience, coding (Python/Bash), networking, specialization
+- `final-roles/`: Pathways for Blue Team and Red Team careers
+- `resources/`: Study tools, cheat sheets, links, and books
 
-More details in [roadmap.md](./roadmap.md)
+👉 Read the full roadmap here: [roadmap.md](./roadmap.md)  
+📄 View the CV structure: [cv.md](./cv.md)
 
-##  What’s Included?
+## ✅ What This Roadmap Covers
 
-- My personal study notes and practice tips
-- TryHackMe walkthroughs
-- Bash & Python study plans
-- Certification prep
-- Learning plans for SOC roles
-- Career guidance to specialize in Blue or Red Team
+- Step-by-step cybersecurity learning journey
+- TryHackMe learning paths (Pre-Security, Cyber Security 101, SOC L1)
+- Study strategy for CompTIA Security+ (with free resources)
+- How to build a cybersecurity CV for SOC/Blue Team
+- Projects and home lab examples
+- Roadmap to specialize in Blue Team or Red Team roles
+- Guidance for entry-level job hunting and long-term growth
