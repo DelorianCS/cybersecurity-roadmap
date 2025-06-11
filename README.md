@@ -7,14 +7,12 @@ Welcome to my personal cybersecurity roadmap repository.
 
 I’m Delorian, the creator of the original roadmap on [roadmap.sh](https://roadmap.sh/r/cibersecurity-roadmap), and this repo contains my full expanded journey from zero knowledge to becoming a cybersecurity professional — both defensive (Blue Team) and offensive (Red Team).
 
-
 ## Original Visual Roadmap
 
 You can view my interactive roadmap here:  
 ➡️ [roadmap.sh/r/cibersecurity-roadmap](https://roadmap.sh/r/cibersecurity-roadmap)
 
 Also included as an image in this repo: `roadmap.png`
-
 
 ## Roadmap Structure
 
@@ -27,7 +25,6 @@ The roadmap is split by time and skill development:
 - `resources/`: Useful books, tools, websites, videos
 
 More details in [roadmap.md](./roadmap.md)
-
 
 ## 📚 What’s Included?
 
