@@ -21,8 +21,8 @@ The roadmap is split by time and skill development:
 - `final-roles/`: Pathways for Blue Team and Red Team careers
 - `resources/`: Study tools, cheat sheets, links, and books
 
-👉 Read the full roadmap here: [roadmap.md](./roadmap.md)  
-📄 View the CV structure: [cv.md](./cv.md)
+👉 Read the full roadmap here: [Detailed Roadmap](./roadmap.md)  
+📄 View the CV structure: [CV Guide](./cv.md)
 
 ## ✅ What This Roadmap Covers
 
