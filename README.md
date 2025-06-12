@@ -16,7 +16,7 @@ Also included as an image here:
 
 The roadmap is split by time and skill development:
 
-- `0-1-month/`: IT foundations, TryHackMe, SIEM tools, note-taking
+- `0-1-month/`: IT/CS foundations, TryHackMe, SIEM tools, note-taking
 - `2-4-months/`: Security+ prep with Professor Messer, certification, CV creation
 - `4m-2y/`: SOC experience, coding (Python/Bash), networking, specialization
 - `final-roles/`: Pathways for Blue Team and Red Team careers
