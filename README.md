@@ -1,45 +1,33 @@
-# File/Directory Search Tool
+# My Cybersecurity Roadmap
 
-A Python script to recursively search for files or directories by name with exact or partial matching.
+Welcome to my personal cybersecurity roadmap repository.
 
-## Features
+I’m **Delorian**, the creator of the original roadmap on [roadmap.sh](https://roadmap.sh/r/cibersecurity-roadmap), and this repo contains my full expanded journey from zero knowledge to becoming a cybersecurity professional — both defensive (Blue Team) and offensive (Red Team).
 
-- 🔍 Search for files or directories by name
-- ⚙️ Choose between exact matches or partial containment
-- 📂 Recursive search through all subdirectories
-- 💻 Simple interactive command-line interface
-- 🚀 Fast scanning using native Python `os.walk()`
+## 🗺️ Original Visual Roadmap
 
-## Installation
+You can view my interactive roadmap here:  
+➡️ [roadmap.sh/r/cibersecurity-roadmap](https://roadmap.sh/r/cibersecurity-roadmap)
 
-1. Ensure Python 3.6+ is installed
-2. Clone the repository:
+Also included as an image in this repo: `roadmap.png`
 
-```bash
-git clone https://github.com/your-username/repo-name.git
-cd repo-name
-```
-## Usage
-  Basic Usage
-```bash
-  Where do you want to search?:
-```
-  Select a directory (e.g. "/home/user/Downloads/"
-```bash
-  Are you looking for a file or a directory?
-```
-  Select which one you want to search for (file/directory)
-  ```
-  What name are you looking for?
-```
-  Select what name you want to search for (e.g. flag)
-```
-  Should the name match exactly or just contain it?
-```
-  Pick one (exact/contain) | CAREFUL, do not type the file extension
-  
-## Requirements
+## 📁 Roadmap Structure
 
-  Python3
-  No external dependencies
-  Any Linux distro
+The roadmap is split by time and skill development:
+
+- `0-1-month/`: IT foundations, TryHackMe, SIEM tools, note-taking
+- `2-4-months/`: Security+ prep with Professor Messer, certification, CV creation
+- `4m-2y/`: SOC experience, coding (Python/Bash), networking, specialization
+- `final-roles/`: Pathways for Blue Team and Red Team careers
+- `resources/`: Study tools, cheat sheets, links, and books
+
+👉 Read the full roadmap here: [roadmap.md](./roadmap.md)  
+📄 View the CV structure: [cv.md](./cv.md)
+
+## ✅ What This Roadmap Covers
+
+- Step-by-step cybersecurity learning journey
+- TryHackMe learning paths (Pre-Security, Cyber Security 101, SOC L1)
+- Study strategy for CompTIA Security+ (with free resources)
+- How to build a cybersecurity CV for SOC/Blue Team
+- Guidance for entry-level job hunting and long-term growth
