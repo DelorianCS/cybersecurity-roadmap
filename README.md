@@ -20,7 +20,6 @@ The roadmap is split by time and skill development:
 - `2-4-months/`: Security+ prep with Professor Messer, certification, CV creation
 - `4m-2y/`: SOC experience, coding (Python/Bash), networking, specialization
 - `final-roles/`: Pathways for Blue Team and Red Team careers
-- `resources/`: Study tools, cheat sheets, links, and books
 
 👉 Read the full roadmap here: [roadmap.md](./roadmap.md)  
 📄 View the CV structure: [cv.md](./cv.md)
