@@ -49,7 +49,7 @@
 ### 3. Experience
 - Continue learning and practicing daily.
 - Upskill in your desired area (e.g., Blue Team tools or Red Team techniques).
-- Join communities and network (LinkedIn, Discord, Twitter).
+- Join communities and network (LinkedIn, Discord, Reddit).
 
 ### 4. Moving to a New Role
 - Choose a path and transition to a more specialized role.
