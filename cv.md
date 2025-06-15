@@ -10,7 +10,7 @@
 
 ## 2. Professional Summary
 Short paragraph (2–3 lines):
-- Mention your Security+ certification or study
+- Mention your Security+ certification and study if you have
 - Emphasize your passion for cybersecurity
 - State your career goals (e.g., SOC Analyst, Blue Team specialization)
 
