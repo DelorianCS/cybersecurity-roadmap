@@ -6,6 +6,7 @@
 - Location (City, Country)
 - LinkedIn Profile
 - GitHub or Portfolio URL
+- Tryhackme Profile (Only if you are very stacked)
 
 ## 2. Professional Summary
 Short paragraph (2–3 lines):
