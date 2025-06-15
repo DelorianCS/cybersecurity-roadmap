@@ -21,7 +21,7 @@ Short paragraph (2–3 lines):
 - **Extras**: Python scripting, Bash scripting, strong communication skills
 
 ## 4. Certifications
-- CompTIA Security+ (Expected: May 2025)
+- CompTIA Security+ 
 - Any other completed or ongoing certifications
 
 ## 5. Education
@@ -31,7 +31,7 @@ Short paragraph (2–3 lines):
 
 ## 6. Projects / Home Lab
 - Documented Home SOC using Splunk
-- Ran vulnerability scans with Nessus and Nmap
+- Ran vulnerability scans with tools like Nmap and Hydra
 - Performed phishing simulations or password audits
 - All projects documented and published on GitHub
 
