@@ -15,7 +15,7 @@
   - **Cyber Security 101 Path**
   - **SOC Level 1 Path** *(very optional, only if you are really lost)*
 - Set up and experiment with Virtual Machines (VMware, VirtualBox).
-- Learn and use SIEM tools like Splunk.
+- Learn and use SIEM tools like Splunk or Wazuh.
 - Start taking notes on everything you learn.
 
 
