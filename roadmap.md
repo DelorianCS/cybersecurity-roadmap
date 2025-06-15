@@ -44,7 +44,7 @@
 ### 2. Learn Coding
 - Bash (Recommended)
 - Python (Must)
-- C/C++ (Optional but recommended for exploit development)
+- C/C++ (Optional but very recommended)
 
 ### 3. Experience
 - Continue learning and practicing daily.
